@@ -1,5 +1,5 @@
 #Editor de Texto - Windows Forms
-Este aplicativo é um editor de texto escrito em C# e Windows Forms como parte dos meus estudos da linguagem.
+Este aplicativo é um editor de texto escrito em C e Windows Forms como parte dos meus estudos da linguagem.
 #####Funcionalidades:
 * Responsivo caixa de texto aumenta conforme tamanho da janela 
 * Abrir arquivo de texto externo
@@ -12,4 +12,4 @@ Este aplicativo é um editor de texto escrito em C# e Windows Forms como parte d
 * Alinhamento de texto
 * Gerar página para impressão
 #####Captura de tela:
-![Imagem do programa](imagens/1.png)
+![Imagem do programa](Imagens/1.png)
